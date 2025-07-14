@@ -10,7 +10,7 @@ Mas também existem raças mais raras de meio leões, meio lagartos, meio-a ranh
 
 > [!success]+ Vantagens
 > **Sangue Puro**  
-> Centauros têm +1 em [VIT].
+> Centauros têm +1 em [[RPG/dicionario#^vit|VIT]] .
 
 > [!tip]+ Vantagem Bônus
 > **Sangue Misto**  

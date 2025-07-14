@@ -9,7 +9,7 @@ Filhos de humanos com entidades mágicas conhecidas como gênios ou Jinn, os Mei
 
 > [!success]+ Vantagens
 > **Você tem direito a 3 pedidos**  
-> Ao usar magia a pedido de outra pessoa, o Meio-Gênio causa +[NIV] de dano/cura.  
+> Ao usar magia a pedido de outra pessoa, o Meio-Gênio causa +[[RPG/dicionario#^niv|NIV]] de dano/cura.  
 > Esse bônus acumula indefinidamente até o fim da batalha ou o início de uma nova.  
 > Gênios não podem pedir para outras pessoas pedirem para ele usar magia.
 >
@@ -18,8 +18,8 @@ Filhos de humanos com entidades mágicas conhecidas como gênios ou Jinn, os Mei
 > Ele retorna à sua lâmpada mágica e só poderá sair quando alguém a esfregar.
 >
 > **Sangue Mágico**  
-> Em vez de ganhar 1D25 + 25 de [Poder Mágico] por ponto de [INT],  
-> o Meio-Gênio ganha fixos 50 de [Poder Mágico] por ponto.
+> Em vez de ganhar 1D25 + 25 de [[RPG/dicionario#^poder-magico|Poder Mágico]] por ponto de [[RPG/dicionario#^int|INT]],  
+> o Meio-Gênio ganha fixos 50 de [[RPG/dicionario#^poder-magico|Poder Mágico]] por ponto.
 
 > [!tip]+ Vantagem Bônus
 > **Paiiiiiee, o paaaiiii...**  
@@ -28,7 +28,7 @@ Filhos de humanos com entidades mágicas conhecidas como gênios ou Jinn, os Mei
 > [!danger]+ Desvantagens
 > **Você tem direito a 3 pedidos**  
 > Se lançar uma magia sem ser por pedido de alguém, o dano/cura sofre penalidade:  
-> (20 - [NIV]), acumulando indefinidamente.
+> (20 - [[RPG/dicionario#^niv|NIV]]), acumulando indefinidamente.
 >
 > **Lâmpada Mágica (Condição)**  
 > Se você voltar à lâmpada por chegar a 0 de vida,  

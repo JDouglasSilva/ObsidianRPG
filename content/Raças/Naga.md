@@ -11,7 +11,7 @@ Normalmente, outras raças olham com receio ou medo para Nagas.
 > [!success]+ Vantagens
 > **Menina veneno**  
 > Diariamente, a Naga pode produzir 50ml de veneno.  
-> Quando aplicado em uma arma, causa dano venenoso adicional de [NIV]D3.  
+> Quando aplicado em uma arma, causa dano venenoso adicional de [[RPG/dicionario#^niv|NIV]]D3.  
 > Esse veneno perde efetividade com o tempo ao ser extraído.  
 > (Efeito acumula com venenos diferentes)
 >
@@ -19,7 +19,7 @@ Normalmente, outras raças olham com receio ou medo para Nagas.
 > Você não sofre dano para o próprio veneno.
 >
 > **Você vem não sei de onde**  
-> O custo para a Naga comprar o [Atributo Secundário] [Furtividade] é cortado pela metade.
+> O custo para a Naga comprar o [[RPG/dicionario#^atributo-secundario|Atributo Secundário]] [[RPG/dicionario#^furtividade|Furtividade]] é cortado pela metade.
 
 > [!danger]+ Desvantagens
 > **Vem me entorpecer**  

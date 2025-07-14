@@ -12,6 +12,10 @@
 > Ataques realizados com objetos não mágicos, como espadas, arcos, porretes, punhos...  
 > ^ataques-fisicos
 
+> ## Atributos Primários  
+> Pontos usados para escolher sua raça ou fortalecer seus atributos principais. [FOR], [DEX] ou [INT]
+> ^Atributos-Primarios
+
 > ## Carisma  
 > Número que você tira no dado ao tentar convencer alguém de algo.  
 > ^carisma
