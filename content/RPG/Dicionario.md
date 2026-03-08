@@ -85,7 +85,7 @@
 > ^totem
 
 > ## Transformação  
-> Atributo de Druida, acessar a classe [[(T2)Druida]] para saber mais.  
+> Atributo de Druida, acessar a classe [[T2-Druida]] para saber mais.  
 > ^transformacao
 
 > ## Valor de Bloqueio  
