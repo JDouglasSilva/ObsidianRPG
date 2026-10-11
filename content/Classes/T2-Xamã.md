@@ -15,7 +15,7 @@ Em alguns casos, consegue até **pedir auxílio direto a esses espíritos**, can
 
 > [!success] Vantagem
 > **Totens Elementais:**  
-> Você agora possui **[[RPG/dicionario#^totem|Totem]]**.
+> Você agora possui **[[RPG/Dicionario#^totem|Totem]]**.
 >
 > - Você ganha **1 Totem a cada 2 níveis**
 > - Você pode ter **até 3 Totens ativos ao mesmo tempo**
@@ -27,7 +27,7 @@ Em alguns casos, consegue até **pedir auxílio direto a esses espíritos**, can
 > - A **magia armazenada no Totem é ativada**
 > - A **passiva elemental do Totem também é ativada**
 >
-> Para aliados usarem seus Totens, eles precisam rolar **1D10 com [[RPG/dicionario#^desvantagem|Desvantagem 2]]** e tirar **mais que seu valor de Totem**.
+> Para aliados usarem seus Totens, eles precisam rolar **1D10 com [[RPG/Dicionario#^desvantagem|Desvantagem 2]]** e tirar **mais que seu valor de Totem**.
 >
 > Os efeitos do Totem duram até:
 > - A **primeira ativação da passiva**
@@ -38,14 +38,14 @@ Em alguns casos, consegue até **pedir auxílio direto a esses espíritos**, can
 
 > [!example] Totens Elementais
 > **Totem do Vento**  
-O próximo aliado que sofrer um **ataque à distância** recebe **+[[RPG/dicionario#^totem|Totem]] na rolagem de esquiva**.
+O próximo aliado que sofrer um **ataque à distância** recebe **+[[RPG/Dicionario#^totem|Totem]] na rolagem de esquiva**.
 **Totem do Fogo**  
-O próximo inimigo que causar **[[RPG/dicionario#^dano|Dano]] corpo a corpo** a um aliado sofre **[[RPG/dicionario#^totem|Totem]]D[[RPG/dicionario#^dano|Dano]] de dano**.
+O próximo inimigo que causar **[[RPG/Dicionario#^dano|Dano]] corpo a corpo** a um aliado sofre **[[RPG/Dicionario#^totem|Totem]]D[[RPG/Dicionario#^dano|Dano]] de dano**.
 **Totem da Água**  
-O próximo aliado que receber **[[RPG/dicionario#^dano|Dano]]** é curado em **[[RPG/dicionario#^vit|VIT]]D[[RPG/dicionario#^totem|Totem]]**.
+O próximo aliado que receber **[[RPG/Dicionario#^dano|Dano]]** é curado em **[[RPG/Dicionario#^vit|VIT]]D[[RPG/Dicionario#^totem|Totem]]**.
 **Totem da Terra**  
 O próximo inimigo **corpo a corpo** que causar dano rola **1D10**.  
-Se tirar **menos que [[RPG/dicionario#^totem|Totem]]**, fica **[[RPG/dicionario#^enraizado|Enraizado]]**.
+Se tirar **menos que [[RPG/Dicionario#^totem|Totem]]**, fica **[[RPG/Dicionario#^enraizado|Enraizado]]**.
 
 ---
 

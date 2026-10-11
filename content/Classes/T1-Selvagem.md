@@ -15,7 +15,7 @@ Entre árvores antigas e rios silenciosos, eles buscam compreender o delicado e 
 
 > [!tip]+ Talentos Base
 > **Fugere Urbem:**  
-> Quando estiver **longe de cidades e fora de construções**, você possui **vantagem em todos os testes de [[RPG/dicionario#^iniciativa|Iniciativa]] e [[RPG/dicionario#^intimidacao|Intimidação]]**.  
+> Quando estiver **longe de cidades e fora de construções**, você possui **vantagem em todos os testes de [[RPG/Dicionario#^iniciativa|Iniciativa]] e [[RPG/Dicionario#^intimidacao|Intimidação]]**.  
 > *(Não funciona contra outros Selvagens.)*
 >
 > **Vida Selvagem:**  
@@ -25,7 +25,7 @@ Entre árvores antigas e rios silenciosos, eles buscam compreender o delicado e 
 
 > [!note]+ Talentos Avançados
 > **Especialista Preciso:**  
-> Você pode comprar **[[RPG/dicionario#^acerto|Acerto]] pela metade do preço**.
+> Você pode comprar **[[RPG/Dicionario#^acerto|Acerto]] pela metade do preço**.
 >
 > **Comunicação Animal:**  
 > Você é capaz de **se comunicar com alguns animais** e **entender a maioria deles**.  

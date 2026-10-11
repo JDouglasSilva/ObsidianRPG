@@ -17,7 +17,7 @@ Para o resto do mundo, porém, são apenas **hedonistas perigosos**, que brincam
 
 > [!success] Vantagem
 > **Colheita de Almas:**  
-> Você pode usar a **alma de inimigos recém mortos** para criar **[[RPG/dicionario#^pedra_de_alma|Pedras de Alma]]**.
+> Você pode usar a **alma de inimigos recém mortos** para criar **[[RPG/Dicionario#^pedras-de-alma|Pedras de Alma]]**.
 
 > [!failure] Desvantagem
 > **Má Reputação:**  
@@ -49,10 +49,10 @@ Para o resto do mundo, porém, são apenas **hedonistas perigosos**, que brincam
 >
 > **Usos possíveis:**
 >
-> - Curar você ou um aliado em **[[RPG/dicionario#^niv|NIV]]D50**
-> - Aumentar o dano da próxima magia em **[[RPG/dicionario#^niv|NIV]]D20**
+> - Curar você ou um aliado em **[[RPG/Dicionario#^niv|NIV]]D50**
+> - Aumentar o dano da próxima magia em **[[RPG/Dicionario#^niv|NIV]]D20**
 >
-> *(Nesses casos, [[RPG/dicionario#^niv|NIV]] representa o nível do inimigo usado para criar a pedra, não do Bruxo.)*
+> *(Nesses casos, [[RPG/Dicionario#^niv|NIV]] representa o nível do inimigo usado para criar a pedra, não do Bruxo.)*
 >
 > Pedras de Alma também podem ser usadas como **droga de prazer arcano**, colocando o alvo em estado de êxtase.  
 > ~~Podendo gerar vício~~

@@ -16,7 +16,7 @@ Muitas têm antenas. Quando morrem, seus corpos se transformam em poeira brilhan
 > Fadas podem voar.  
 >
 > **Alvos Pequenos**  
-> Fadas têm vantagem em todos os testes de [[RPG/dicionario#^esquiva|Esquiva]] para ataques à distância.
+> Fadas têm vantagem em todos os testes de [[RPG/Dicionario#^esquiva|Esquiva]] para ataques à distância.
 
 > [!danger]+ Desvantagens
 > **Modelo Corporal**  
@@ -24,7 +24,7 @@ Muitas têm antenas. Quando morrem, seus corpos se transformam em poeira brilhan
 >
 > **Pequenos Músculos**  
 > Fadas não conseguem carregar objetos de peso mediano ou até leves
-> Sofrem penalidade de −1 em [[RPG/dicionario#^for|FOR]].  
+> Sofrem penalidade de −1 em [[RPG/Dicionario#^for|FOR]].  
 >
 > **Ameaça Pequena**  
 > Todo dano físico causado por fadas é reduzido pela metade

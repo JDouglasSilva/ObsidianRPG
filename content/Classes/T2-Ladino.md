@@ -18,7 +18,7 @@ Para um Ladino, vencer de forma honrada é opcional.
 
 > [!success] Vantagem
 > **Combate Oportunista:**  
-> Atacar inimigos **[[RPG/dicionario#^enraizado|Enraizados]]** conta como **Ataque de Oportunidade**.
+> Atacar inimigos **[[RPG/Dicionario#^enraizado|Enraizados]]** conta como **Ataque de Oportunidade**.
 
 ---
 
@@ -30,7 +30,7 @@ Para um Ladino, vencer de forma honrada é opcional.
 >**Ataques de oportunidade**  causam **o dobro de dano**.
 >
 > **Magarefe Talentoso:**  
-> Ao usar **empunhadura dupla**, você aumenta em **+1 a quantidade de stacks de [[RPG/dicionario#^envenenamento|Envenenamento]] ou [[RPG/dicionario#^sangramento|Sangramento]]** *(ou ambos)*.
+> Ao usar **empunhadura dupla**, você aumenta em **+1 a quantidade de stacks de [[RPG/Dicionario#^envenenamento|Envenenamento]] ou [[RPG/Dicionario#^sangramento|Sangramento]]** *(ou ambos)*.
 >
 > **Em construção**
 
@@ -39,7 +39,7 @@ Para um Ladino, vencer de forma honrada é opcional.
 > **Ataques de oportunidade** possuem **acerto garantido** e causam **o dobro de dano**.
 >
 > **Talho Magarefe:**  
-> **[[RPG/dicionario#^envenenamento|Envenenamento]] e [[RPG/dicionario#^sangramento|Sangramento]] causam o dobro de dano**.
+> **[[RPG/Dicionario#^envenenamento|Envenenamento]] e [[RPG/Dicionario#^sangramento|Sangramento]] causam o dobro de dano**.
 >
 > **Em construção**
 

@@ -16,14 +16,14 @@ Assim surgiram os **Servos**, figuras capazes de inspirar aliados, sustentar tro
 
 > [!tip]+ Talentos Base
 > **Sorriso Humilde:**  
-> Você pode comprar **[[RPG/dicionario#^carisma|Carisma]] pela metade do preço**.
+> Você pode comprar **[[RPG/Dicionario#^carisma|Carisma]] pela metade do preço**.
 >
 > **Sorriso Amigável:**  
-> Para cada **aliado próximo**, você ganha **+1 em todos os testes de [[RPG/dicionario#^carisma|Carisma]]**.  
+> Para cada **aliado próximo**, você ganha **+1 em todos os testes de [[RPG/Dicionario#^carisma|Carisma]]**.  
 > Você **não pode mais comprar o atributo Carisma**.
 >
 > **Sorriso Confiante:**  
-> Para cada **inimigo humanoide que você matar ou derrubar**, você ganha **+1 no próximo teste de [[RPG/dicionario#^carisma|Carisma]]**.  
+> Para cada **inimigo humanoide que você matar ou derrubar**, você ganha **+1 no próximo teste de [[RPG/Dicionario#^carisma|Carisma]]**.  
 > Você **não pode mais comprar o atributo Carisma**.
 
 > [!note]+ Talentos Avançados
@@ -33,8 +33,8 @@ Assim surgiram os **Servos**, figuras capazes de inspirar aliados, sustentar tro
 > | Resultado | Efeito |
 > |----------|--------|
 > | **100** | O aliado retorna à vida **completamente recuperado** |
-> | **99–50** | Retorna com **10 de vida para cada ponto em [[RPG/dicionario#^vit|VIT]]** |
-> | **49–10** | Retorna com **5 de vida para cada ponto em [[RPG/dicionario#^vit|VIT]]** |
+> | **99–50** | Retorna com **10 de vida para cada ponto em [[RPG/Dicionario#^vit|VIT]]** |
+> | **49–10** | Retorna com **5 de vida para cada ponto em [[RPG/Dicionario#^vit|VIT]]** |
 > | **9–1** | Retorna com **1 ponto de vida** |
 >
 > **Pacifista Ideológico:**  
@@ -45,15 +45,15 @@ Assim surgiram os **Servos**, figuras capazes de inspirar aliados, sustentar tro
 > **Presença de Palco:**  
 > No início de cada batalha você **canta, ora ou medita**, concedendo um dos seguintes efeitos aos aliados:
 >
-> - **Ritmo Acelerado:** +2 em **[[RPG/dicionario#^iniciativa|Iniciativa]]**
-> - **Acorde de Resiliência:** +50 de **[[RPG/dicionario#^escudo_de_mana|Escudo de Mana]]**
-> - **Nota Dissonante:** inimigos sofrem **–2 em [[RPG/dicionario#^iniciativa|Iniciativa]]**
+> - **Ritmo Acelerado:** +2 em **[[RPG/Dicionario#^iniciativa|Iniciativa]]**
+> - **Acorde de Resiliência:** +50 de **[[RPG/Dicionario#^escudo-de-mana|Escudo de Mana]]**
+> - **Nota Dissonante:** inimigos sofrem **–2 em [[RPG/Dicionario#^iniciativa|Iniciativa]]**
 > - **Sinfonia Crítica:** aliados têm **Crítico Natural com 1 valor a menos** (ex: 19 ou 20)
 
 ---
 
 > [!example] Evolução de Classe (Nível 3)
-> Ao atingir **[[RPG/dicionario#^niv|NIV]] 3**, um **Servo** pode evoluir para uma das seguintes classes:
+> Ao atingir **[[RPG/Dicionario#^niv|NIV]] 3**, um **Servo** pode evoluir para uma das seguintes classes:
 >
 > **Sacerdote**  
 > “A batalha também acontece no espírito.”  

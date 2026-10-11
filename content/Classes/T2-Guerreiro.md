@@ -20,7 +20,7 @@ Alguns Guerreiros também desenvolvem uma afinidade limitada com magia, tornando
 > Para cada **Guerreiro aliado próximo** (incluindo membros do grupo), você ganha **+1 de vantagem em todos os testes**.
 >
 > **Vantagem Bônus (Experimental):**  
-> Se **dois jogadores Soldados/Guerreiros rolarem o mesmo valor em [[RPG/dicionario#^iniciativa|Iniciativa]]**, o **Soldado 1 pode atacar no turno do Soldado 2**, e o **Soldado 2 pode atacar no turno do Soldado 1**.
+> Se **dois jogadores Soldados/Guerreiros rolarem o mesmo valor em [[RPG/Dicionario#^iniciativa|Iniciativa]]**, o **Soldado 1 pode atacar no turno do Soldado 2**, e o **Soldado 2 pode atacar no turno do Soldado 1**.
 
 ---
 
@@ -35,7 +35,7 @@ Alguns Guerreiros também desenvolvem uma afinidade limitada com magia, tornando
 
 > [!note]+ Talentos Avançados
 > **Formação de Combate:**  
-> Você e aliados recebem **+1 em [[RPG/dicionario#^iniciativa|Iniciativa]] para cada aliado próximo**.
+> Você e aliados recebem **+1 em [[RPG/Dicionario#^iniciativa|Iniciativa]] para cada aliado próximo**.
 >
 > **Em construção:** General  
 >

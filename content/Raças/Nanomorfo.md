@@ -16,7 +16,7 @@ Um nanomorfo é um construto feito de metal líquido.
 > **Canivete**  
 > Pode modificar suas mãos para assumir a forma de qualquer arma ou ferramenta que já tenha consumido.  
 > **Memória SSD**  
-> Você ganha 20 Pontos de [[RPG/dicionario#^atributos_secundarios|Atributos Secundários]] ao subir de nível, ao invés do valor padrão.  
+> Você ganha 20 Pontos de [[RPG/Dicionario#^atributos-secundarios|Atributos Secundários]] ao subir de nível, ao invés do valor padrão.  
 > **Máquina**  
 > Imune a venenos, sangramento e doenças.
 

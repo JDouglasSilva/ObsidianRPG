@@ -29,7 +29,7 @@ Assim surgiu o **regimento Bárbaro**, unidades formadas por guerreiros que cana
 
 > [!tip]+ Talentos Base
 > **Furioso:**  
-> Se você estiver **Sangrando, Envenenado ou sob algum efeito de [[RPG/dicionario#^dot|DoT]]**, você possui **vantagem em todas as rolagens de dano**.
+> Se você estiver **Sangrando, Envenenado ou sob algum efeito de [[RPG/Dicionario#^dot|DoT]]**, você possui **vantagem em todas as rolagens de dano**.
 >
 > **Fúria Intimidadora:**  
 > Ao realizar um **ataque crítico**, todos os **inimigos próximos** sofrem **desvantagem no próximo rolamento**.

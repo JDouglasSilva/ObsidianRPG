@@ -10,7 +10,7 @@ São temidos em campo de batalha, mas raramente convidados para debates.
 
 > [!success]+ Vantagens
 > **Bruto**  
-> Orcs ganham +2 em [[RPG/dicionario#^for|FOR]].
+> Orcs ganham +2 em [[RPG/Dicionario#^for|FOR]].
 >
 > **Sangue Verde**  
 > Sempre que sobe de nível, um Orc ganha um adicional de 1D30 + 10 de vida máxima.

@@ -14,11 +14,11 @@ São curiosos, ousados — e muitas vezes vistos como **jovens tolos** pelos pra
 
 > [!tip]+ Talentos Base
 > **Vincit Quantitas:**  
-> Você não ganha mais **[[RPG/dicionario#^atributos_secundarios|Atributos Secundários]]**.  
-> Em vez disso, passa a ganhar **+2 [[RPG/dicionario#^sabedoria|Sabedoria]] por nível**.
+> Você não ganha mais **[[RPG/Dicionario#^atributos-secundarios|Atributos Secundários]]**.  
+> Em vez disso, passa a ganhar **+2 [[RPG/Dicionario#^sabedoria|Sabedoria]] por nível**.
 >
 > **Vincit Qualitas:**  
-> Para cada ponto de **[[RPG/dicionario#^sabedoria|Sabedoria]]** que uma magia possuir, você causa **+1D[[RPG/dicionario#^niv|NIV]] de dano ou cura**.
+> Para cada ponto de **[[RPG/Dicionario#^sabedoria|Sabedoria]]** que uma magia possuir, você causa **+1D[[RPG/Dicionario#^niv|NIV]] de dano ou cura**.
 
 > [!note]+ Talentos Avançados
 > **Sangue Mágico:**  

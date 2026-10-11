@@ -18,10 +18,10 @@ Em geral, são malignos, mas algumas sociedades os aceitam como cidadãos — e 
 > Muitas pessoas já perderam familiares para ataques goblins.  
 >
 > **Goblin Burro**  
-> Goblins sofrem penalidade de `((14 - [NIV]) * (14 - [NIV]))` em [[RPG/dicionario#^pm|Poder Mágico]].  
+> Goblins sofrem penalidade de `((14 - [NIV]) * (14 - [NIV]))` em [[RPG/Dicionario#^poder-magico|Poder Mágico]].  
 >
 > **Goblin Fraco**  
-> Goblins sofrem penalidade de `((14 - [NIV]) * (14 - [NIV]))` em [[RPG/dicionario#^vit|Vida]].
+> Goblins sofrem penalidade de `((14 - [NIV]) * (14 - [NIV]))` em [[RPG/Dicionario#^vit|Vida]].
 >
 > **Exemplo:**  
 > Nível 01 → Penalidade -169  

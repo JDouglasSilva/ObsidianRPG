@@ -9,13 +9,13 @@
 
 > [!success]+ Vantagens
 > **Habilidoso**  
-> Elfos ganham +1 em [[RPG/dicionario#^dex|DEX]].
+> Elfos ganham +1 em [[RPG/Dicionario#^dex|DEX]].
 >
 > **Guarda Florestal**  
 > Quando em uma floresta densa, Elfos ganham uma ação adicional no primeiro turno de batalha.
 >
 > **Arqueiros**  
-> Elfos causam +1D[[RPG/dicionario#^niv|NIV]] de dano ao atacarem com um arco.
+> Elfos causam +1D[[RPG/Dicionario#^niv|NIV]] de dano ao atacarem com um arco.
 
 > [!danger]+ Desvantagens
 > **Nobreza Xenofóbica**  

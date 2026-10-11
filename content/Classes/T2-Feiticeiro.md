@@ -20,10 +20,10 @@ Outros suspeitam que seja apenas porque **Feiticeiros possuem facilidade com mag
 
 > [!success] Vantagens
 > **Intelecto Aprimorado:**  
-> Você pode comprar **[[RPG/dicionario#^sabedoria|Sabedoria]] pela metade do valor**.
+> Você pode comprar **[[RPG/Dicionario#^sabedoria|Sabedoria]] pela metade do valor**.
 >
 > **Amplificação Arcana:**  
-> Todos os dados rolados pelo Feiticeiro recebem **+1D[[RPG/dicionario#^sabedoria|Sabedoria]]** adicional.
+> Todos os dados rolados pelo Feiticeiro recebem **+1D[[RPG/Dicionario#^sabedoria|Sabedoria]]** adicional.
 
 > [!failure] Desvantagens
 > **Suspeita Arcana:**  
@@ -43,7 +43,7 @@ Outros suspeitam que seja apenas porque **Feiticeiros possuem facilidade com mag
 
 > [!note]+ Talentos Avançados
 > **Presságio:**  
-> Ao descansar, você recebe **1D4 pontos de [[RPG/dicionario#^pressagio|Presságio]]**.
+> Ao descansar, você recebe **1D4 pontos de [[RPG/Dicionario#^pressagio|Presságio]]**.
 >
 > Você pode gastar **1 ponto de Presságio** para **re-rolar qualquer dado que não seja crítico**.
 >

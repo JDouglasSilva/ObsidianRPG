@@ -34,13 +34,13 @@ Os **Clandestinos** são aqueles que operam nas sombras, manipulando eventos sem
 
 > [!note]+ Talentos Avançados
 > **Silêncio Treinado:**  
-> Você pode comprar **[[RPG/dicionario#^furtividade|Furtividade]] pela metade do preço**.
+> Você pode comprar **[[RPG/Dicionario#^furtividade|Furtividade]] pela metade do preço**.
 >
 > **Tutor do Silêncio:**  
-> Aliados próximos podem realizar testes de **[[RPG/dicionario#^furtividade|Furtividade]] usando seus modificadores**.
+> Aliados próximos podem realizar testes de **[[RPG/Dicionario#^furtividade|Furtividade]] usando seus modificadores**.
 >
 > **Sr. Veneno:**  
-> Você pode comprar **[[RPG/dicionario#^veneno|Veneno]] pagando 1 ponto a menos**.
+> Você pode comprar **[[RPG/Dicionario#^veneno|Veneno]] pagando 1 ponto a menos**.
 >
 > **Sr. Oportunista:**  
 > **Ataques de oportunidade** passam a ter **acerto garantido**.

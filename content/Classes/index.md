@@ -29,7 +29,7 @@
 - [[T2-Bardo]]
 
 - [[T2-Ladino]]
-- [[T2-Ninja]]
+- T2-Ninja *(em construção)*
 
 - [[T2-Caçador]]
 - [[T2-Druida]]

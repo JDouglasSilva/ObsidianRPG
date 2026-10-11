@@ -18,7 +18,7 @@ Embora também saibam lutar corpo a corpo, **preferem eliminar o alvo antes que 
 
 > [!success] Vantagem
 > **Êxito:**  
-> Você agora possui **[[RPG/dicionario#^exito|Êxito]]**.
+> Você agora possui **[[RPG/Dicionario#^exito|Êxito]]**.
 >
 > - Seu **máximo de Êxito é igual ao seu nível**
 > - Seu **Êxito zera fora de batalha**
@@ -33,7 +33,7 @@ Embora também saibam lutar corpo a corpo, **preferem eliminar o alvo antes que 
 ### Bônus de Êxito
 Para cada ponto de **Êxito**, seus ataques causam:
 
-**+1D([[RPG/dicionario#^niv|NIV]] × [[RPG/dicionario#^dex|DEX]]) de dano**
+**+1D([[RPG/Dicionario#^niv|NIV]] × [[RPG/Dicionario#^dex|DEX]]) de dano**
 
 ---
 
@@ -44,10 +44,10 @@ Para cada ponto de **Êxito**, seus ataques causam:
 > Este efeito **é acumulativo**.
 >
 > **Esgotamento:**  
-> Se você gastar **Êxito igual à metade do seu nível**, recebe **[[RPG/dicionario#^vantagem|Vantagem 3]] no próximo ataque**.
+> Se você gastar **Êxito igual à metade do seu nível**, recebe **[[RPG/Dicionario#^vantagem-x|Vantagem 3]] no próximo ataque**.
 >
 > **Caçador:**  
-> Você pode gastar **sua [[RPG/dicionario#^acao_bonus|Ação Bônus]] e 2 pontos de Êxito** para **realizar um ataque contra o primeiro inimigo que entrar no seu alcance**, mesmo **fora do seu turno**.
+> Você pode gastar **sua [[RPG/Dicionario#^acao_bonus|Ação Bônus]] e 2 pontos de Êxito** para **realizar um ataque contra o primeiro inimigo que entrar no seu alcance**, mesmo **fora do seu turno**.
 
 > [!note]+ Talentos Avançados
 > **Arqueiro:**  

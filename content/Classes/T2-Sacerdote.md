@@ -16,7 +16,7 @@ Especialmente entre os mais pobres, que frequentemente recebem **abrigo, aliment
 
 > [!success] Vantagens
 > **Devoção:**  
-> Você agora possui o recurso **[[RPG/dicionario#^devocao|Devoção]]**.  
+> Você agora possui o recurso **[[RPG/Dicionario#^devocao|Devoção]]**.  
 > Seu **máximo de Devoção é igual ao seu nível**.
 
 ### Você ganha Devoção quando:
@@ -37,10 +37,10 @@ Especialmente entre os mais pobres, que frequentemente recebem **abrigo, aliment
 
 > [!tip]+ Talentos Base
 > **Devoção Egoísta:**  
-> Você recebe **X × [[RPG/dicionario#^vit|VIT]] de [[RPG/dicionario#^escudo_de_energia|Escudo de Energia]]** para cada ponto de **Devoção**.
+> Você recebe **X × [[RPG/Dicionario#^vit|VIT]] de [[RPG/Dicionario#^escudo_de_energia|Escudo de Energia]]** para cada ponto de **Devoção**.
 >
 > **Devoção Inquisitória:**  
-> No início de um combate, você causa **X × [[RPG/dicionario#^int|INT]] de Dano Sagrado** para cada inimigo próximo.
+> No início de um combate, você causa **X × [[RPG/Dicionario#^int|INT]] de Dano Sagrado** para cada inimigo próximo.
 >
 > **Devoção Altruísta:**  
 > Você pode gastar **1 ponto de Devoção** para **receber o dano que iria para um aliado**.
@@ -51,7 +51,7 @@ Especialmente entre os mais pobres, que frequentemente recebem **abrigo, aliment
 > Se tirar **10**, role outro **D10** e repita o processo.
 >
 > **Benção Divina:**  
-> Você possui uma **habilidade de reação** que pode ser usada **1 vez por dia**, com **20 + [[RPG/dicionario#^niv|NIV]] de [[RPG/dicionario#^poder_magico|Poder Mágico]]**.
+> Você possui uma **habilidade de reação** que pode ser usada **1 vez por dia**, com **20 + [[RPG/Dicionario#^niv|NIV]] de [[RPG/Dicionario#^poder-magico|Poder Mágico]]**.
 >
 > **Em construção:** Inquisitor  
 >

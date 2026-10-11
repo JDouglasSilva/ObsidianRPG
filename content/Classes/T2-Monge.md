@@ -16,7 +16,7 @@ Apesar de dominarem o combate, muitos seguem filosofias de **desapego e equilíb
 
 > [!success] Vantagens
 > **Ki:**  
-> Você agora possui **[[RPG/dicionario#^ki|Ki]]**.
+> Você agora possui **[[RPG/Dicionario#^ki|Ki]]**.
 >
 > - Seu **máximo de Ki é igual ao dobro do seu nível**
 > - Fora de combate, seu **Ki permanece em metade do valor máximo**

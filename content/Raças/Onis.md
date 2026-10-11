@@ -17,9 +17,9 @@ Eles são conhecidos por serem violentos e agressivos, muitas vezes agindo de fo
 > Você pode gastar vida de forma **permanente** para ganhar **atributos temporários**.  
 >  
 > **Conversão:**  
-> 1 Vida → +1 [[RPG/dicionario#^for|FOR]]  
-> 1 Vida → +1 [[RPG/dicionario#^agi|AGI]]  
-> 3 Vidas → +1 [[RPG/dicionario#^vit|VIT]]
+> 1 Vida → +1 [[RPG/Dicionario#^for|FOR]]  
+> 1 Vida → +1 [[RPG/Dicionario#^agi|AGI]]  
+> 3 Vidas → +1 [[RPG/Dicionario#^vit|VIT]]
 
 > [!danger]+ Desvantagens
 > **Fama Demoníaca**  

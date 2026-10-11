@@ -14,7 +14,11 @@
 
 > ## Atributos Primários  
 > Pontos usados para escolher sua raça ou fortalecer seus atributos principais. [FOR], [DEX] ou [INT]
-> ^Atributos-Primarios
+> ^atributos-primarios
+
+> ## Atributos Secundários  
+> Pontos usados para comprar características específicas do personagem, como Esquiva, Acerto ou Sabedoria. Ver [[1.1.2 - Atributos Secundarios]].  
+> ^atributos-secundarios
 
 > ## Carisma  
 > Número que você tira no dado ao tentar convencer alguém de algo.  
@@ -25,19 +29,27 @@
 > ^critico-natural
 
 > ## Devoção  
-> Atributo de Sacerdote, acessar a classe [[Sacerdote]] para saber mais.  
+> Atributo de Sacerdote, acessar a classe [[T2-Sacerdote|Sacerdote]] para saber mais.  
 > ^devocao
 
 > ## DoT  
 > *Damage Over Time*, dano que ocorre durante vários turnos seguidos.  
 > ^dot
 
+> ## Envenenamento  
+> Atributo Secundário ofensivo: ao causar dano com arma cortante/perfurante, aplica dano por turno. Ver [[1.1.2 - Atributos Secundarios]].  
+> ^envenenamento
+
 > ## Escudo de Mana  
 > Um escudo que absorve dano que você recebe, até ser destruído.  
 > ^escudo-de-mana
 
+> ## Esquiva  
+> Atributo Secundário defensivo: cada ponto adiciona +1 no dado de esquiva. Ver [[1.1.2 - Atributos Secundarios]].  
+> ^esquiva
+
 > ## Êxito  
-> Atributo de Caçador, acessar a classe [[Caçador]] para saber mais.  
+> Atributo de Caçador, acessar a classe [[T2-Caçador|Caçador]] para saber mais.  
 > ^exito
 
 > ## FOR  
@@ -60,6 +72,10 @@
 > Pontos de Inteligência do seu personagem.  
 > ^int
 
+> ## Ki  
+> Atributo de Monge, acessar a classe [[T2-Monge|Monge]] para saber mais.  
+> ^ki
+
 > ## Magias Arcanas  
 > Um tipo específico de magia, em que é rolado apenas 1 dado, que define se a magia vai causar o dano mínimo ou máximo.  
 > ^magias-arcanas
@@ -69,19 +85,27 @@
 > ^niv
 
 > ## Pedras de Alma  
-> Item criado por Bruxos, acessar a classe [[Bruxo]] para saber mais.  
+> Item criado por Bruxos, acessar a classe [[T2-Bruxo|Bruxo]] para saber mais.  
 > ^pedras-de-alma
 
 > ## Poder Mágico  
 > Atributo secundário, usado para criar e fortalecer magias.  
 > ^poder-magico
 
+> ## Presságio  
+> Atributo de Feiticeiro, acessar a classe [[T2-Feiticeiro|Feiticeiro]] para saber mais.  
+> ^pressagio
+
 > ## Sabedoria  
 > Determina a quantidade de vezes que uma magia pode ser usada.  
 > ^sabedoria
 
+> ## Sangramento  
+> Atributo Secundário ofensivo: ao causar dano com arma cortante, aplica dano por turno. Ver [[1.1.2 - Atributos Secundarios]].  
+> ^sangramento
+
 > ## Totem  
-> Atributo de Xamã, acessar a classe [[Xamã]] para saber mais.  
+> Atributo de Xamã, acessar a classe [[T2-Xamã|Xamã]] para saber mais.  
 > ^totem
 
 > ## Transformação  
@@ -97,7 +121,7 @@
 > ^vantagem-x
 
 > ## Veneno  
-> Um tipo de [[DoT]], que faz o inimigo receber dano a cada X.  
+> Um tipo de [[#^dot|DoT]], que faz o inimigo receber dano a cada X.  
 > ^veneno
 
 > ## VIT  

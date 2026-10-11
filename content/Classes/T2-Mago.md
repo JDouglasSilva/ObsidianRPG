@@ -18,10 +18,10 @@ ou **falhas igualmente espetaculares**.
 
 > [!success] Vantagem
 > **Fluxo Arcano:**  
-> Magos ganham **+20 de [[RPG/dicionario#^poder_magico|Poder Mágico]] para cada nível**.
+> Magos ganham **+20 de [[RPG/Dicionario#^poder-magico|Poder Mágico]] para cada nível**.
 
 > [!failure] Desvantagem
-> ~~Magos apenas usam [[RPG/dicionario#^magias_arcanas|Magias Arcanas]]~~
+> ~~Magos apenas usam [[RPG/Dicionario#^magias-arcanas|Magias Arcanas]]~~
 
 ---
 

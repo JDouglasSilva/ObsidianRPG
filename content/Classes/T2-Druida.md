@@ -10,8 +10,8 @@ Reza a lenda que eles podem ouvir os sussurros da floresta.
 ---
 
 > [!success] Vantagem — **Transformação**
-> Você agora possui [[RPG/dicionario#^transformacao|Transformação]].  
-> - Você tem **1 ponto** de **Transformação** para cada **2 [[RPG/dicionario#^niv|NIV]]**.  
+> Você agora possui [[RPG/Dicionario#^transformacao|Transformação]].  
+> - Você tem **1 ponto** de **Transformação** para cada **2 [[RPG/Dicionario#^niv|NIV]]**.  
 > - Para cada ponto em **Transformação**, escolha **1 animal**,  para ter na lista dos animais que você pode se transformar.
 > - Você pode refazer as escolhas com um descanso curto, enquanto pensa sobre a natureza das criaturas.  
 > - **X vezes por batalha**, você pode usar sua ação bônus para se transformar em **qualquer** animal escolhido da sua lista por um número de turnos igual à sua **Transformação**, sendo X seu valor de Transformação.  
@@ -32,14 +32,14 @@ Reza a lenda que eles podem ouvir os sussurros da floresta.
 > `Sábios (INT)` — Aranhas, Corvos, Polvos  
 
 > [!tip]+ Talentos Base
-> **Adaptação:** Enquanto transformado em um animal, você ganha uma quantidade do atributo principal do animal igual à sua [[RPG/dicionario#^transformacao|Transformação]].  
+> **Adaptação:** Enquanto transformado em um animal, você ganha uma quantidade do atributo principal do animal igual à sua [[RPG/Dicionario#^transformacao|Transformação]].  
 > **Mythos:** Enquanto na forma de animal, você pode usar magias com metade do efeito.  
-> **EGO:** Você abre mão de se transformar, porém para cada ponto em [[RPG/dicionario#^transformacao|Transformação]], você ganha +1 em cada atributo primário.
+> **EGO:** Você abre mão de se transformar, porém para cada ponto em [[RPG/Dicionario#^transformacao|Transformação]], você ganha +1 em cada atributo primário.
 > **Animal Arisco**: Você pode escolher uma forma animal, da próxima vez que entrar em batalha, começa já transformado se for possível.
 
 > [!note]+ Talentos Avançados
-> **Animalia:** Magias de [[RPG/dicionario#^transformacao|Transformação]] agora duram por tempo indeterminado, e você pode mudar de forma quantas vezes quiser.  
-> **Plantae:** Perde a habilidade de se transformar, porem, para cada ponto em [[RPG/dicionario#^transformacao|Transformação]] pode utilizar uma magia mesmo já tendo gasto todas suas cargas, recarrega fora de combate, e em contato com o sol.
+> **Animalia:** Magias de [[RPG/Dicionario#^transformacao|Transformação]] agora duram por tempo indeterminado, e você pode mudar de forma quantas vezes quiser.  
+> **Plantae:** Perde a habilidade de se transformar, porem, para cada ponto em [[RPG/Dicionario#^transformacao|Transformação]] pode utilizar uma magia mesmo já tendo gasto todas suas cargas, recarrega fora de combate, e em contato com o sol.
 > ~~**Plantae T2:** Perde a habilidade de se transformar, mas pode fazer aliados ganharem buffs aleatórios de um animal específico.~~
 
 ---

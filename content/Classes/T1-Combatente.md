@@ -15,17 +15,17 @@ Alguns se revelam **inabaláveis na defesa**, outros demonstram **força brutal 
 
 > [!tip]+ Talentos Base
 > **Talento para a Defesa:**  
-> Você ganha **[[RPG/dicionario#^niv|NIV]] + [[RPG/dicionario#^vit|VIT]]** no seu **[[RPG/dicionario#^valor_de_bloqueio|Valor de Bloqueio]]**.
+> Você ganha **[[RPG/Dicionario#^niv|NIV]] + [[RPG/Dicionario#^vit|VIT]]** no seu **[[RPG/Dicionario#^valor-de-bloqueio|Valor de Bloqueio]]**.
 >
 > **Armadura Talentosa:**  
-> Você ganha **[[RPG/dicionario#^for|FOR]] + [[RPG/dicionario#^vit|VIT]]** em **[[RPG/dicionario#^armadura_fisica|Armadura Física]]**.
+> Você ganha **[[RPG/Dicionario#^for|FOR]] + [[RPG/Dicionario#^vit|VIT]]** em **[[RPG/Dicionario#^armadura-fisica|Armadura Física]]**.
 >
 > **Talento para o Ataque:**  
-> Você ganha **[[RPG/dicionario#^niv|NIV]] + [[RPG/dicionario#^for|FOR]]** em todos os seus **[[RPG/dicionario#^ataques_fisicos|Ataques Físicos]]**.
+> Você ganha **[[RPG/Dicionario#^niv|NIV]] + [[RPG/Dicionario#^for|FOR]]** em todos os seus **[[RPG/Dicionario#^ataques-fisicos|Ataques Físicos]]**.
 
 > [!note]+ Talentos Avançados
 > **Reação Vigorosa:**  
-> Ao se defender completamente de um ataque, você pode somar **+[[RPG/dicionario#^vit|VIT]]** ao **[[RPG/dicionario#^acerto|Acerto]]** de um **contra-ataque**.
+> Ao se defender completamente de um ataque, você pode somar **+[[RPG/Dicionario#^vit|VIT]]** ao **[[RPG/Dicionario#^acerto|Acerto]]** de um **contra-ataque**.
 >
 > **Bruto:**  
 > Seu **crítico natural ocorre com 2 valores a menos**.  
